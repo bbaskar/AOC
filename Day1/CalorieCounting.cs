@@ -1,6 +1,6 @@
 ﻿namespace AOC.Day1
 {
-    internal static class Calorie_Counting
+    internal static class CalorieCounting
     {
         public static void PrintResult()
         {

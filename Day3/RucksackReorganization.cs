@@ -1,6 +1,6 @@
 ﻿namespace AOC.Day3
 {
-    internal static class Rucksack_Reorganization
+    internal static class RucksackReorganization
     {
         public static void PrintResult()
         {

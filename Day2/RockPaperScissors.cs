@@ -1,6 +1,6 @@
 ﻿namespace AOC.Day2
 {
-    internal static class Rock_Paper_Scissors
+    internal static class RockPaperScissors
     {
         public static void PrintResult()
         {

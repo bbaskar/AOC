@@ -13,17 +13,22 @@
             {
                 case 1:
                     // Ref: https://adventofcode.com/2022/day/1
-                    AOC.Day1.Calorie_Counting.PrintResult();
+                    AOC.Day1.CalorieCounting.PrintResult();
                     break;
 
                 case 2:
                     // Ref: https://adventofcode.com/2022/day/2
-                    AOC.Day2.Rock_Paper_Scissors.PrintResult();
+                    AOC.Day2.RockPaperScissors.PrintResult();
                     break;
 
                 case 3:
                     // Ref: https://adventofcode.com/2022/day/3
-                    AOC.Day3.Rucksack_Reorganization.PrintResult();
+                    AOC.Day3.RucksackReorganization.PrintResult();
+                    break;
+
+                case 4:
+                    // Ref: https://adventofcode.com/2022/day/4
+                    AOC.Day4.CampCleanup.PrintResult();
                     break;
 
                 default:
