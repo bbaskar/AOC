@@ -31,6 +31,11 @@
                     AOC.Day4.CampCleanup.PrintResult();
                     break;
 
+                case 5:
+                    // Ref: https://adventofcode.com/2022/day/5
+                    AOC.Day5.SupplyStacks.PrintResult();
+                    break;
+
                 default:
                     Console.WriteLine("Invalid command-line arguments.");
                     break;
