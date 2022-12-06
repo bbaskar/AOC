@@ -36,6 +36,11 @@
                     AOC.Day5.SupplyStacks.PrintResult();
                     break;
 
+                case 6:
+                    // Ref: https://adventofcode.com/2022/day/6
+                    AOC.Day6.TuningTrouble.PrintResult();
+                    break;
+
                 default:
                     Console.WriteLine("Invalid command-line arguments.");
                     break;
