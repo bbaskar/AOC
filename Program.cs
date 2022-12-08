@@ -41,6 +41,11 @@
                     AOC.Day6.TuningTrouble.PrintResult();
                     break;
 
+                case 7:
+                    // Ref: https://adventofcode.com/2022/day/7
+                    AOC.Day7.NoSpaceLeftOnDevice.PrintResult();
+                    break;
+
                 default:
                     Console.WriteLine("Invalid command-line arguments.");
                     break;
