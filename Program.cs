@@ -46,6 +46,11 @@
                     AOC.Day7.NoSpaceLeftOnDevice.PrintResult();
                     break;
 
+                case 8:
+                    // Ref: https://adventofcode.com/2022/day/8
+                    AOC.Day8.TreetopTreeHouse.PrintResult();
+                    break;
+
                 default:
                     Console.WriteLine("Invalid command-line arguments.");
                     break;
